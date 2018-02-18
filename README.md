@@ -10,3 +10,5 @@ It can:
 
 All location and telemetry data are from: https://wheretheiss.at/w/developer 
 and: https://projects.raspberrypi.org/en/projects/where-is-the-space-station/4 
+
+Note: you need a MySQL database, fill in the "???" field in "TLEandTelemetryDAO.java"
